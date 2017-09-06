@@ -1,0 +1,44 @@
+body{ 
+	  background: #457fca; 
+  background: -webkit-linear-gradient(to right, #457fca, #5691c8); 
+  background: linear-gradient(to right, #457fca, #5691c8); 
+
+  
+}
+h1{
+	color: blue;  
+	font-family: system-ui;
+	font-size: 300%;
+ 	border: 8px solid;
+}
+p{ 
+	color: black;
+	font-family: system-ui;
+ 	font-size: 150%
+}
+ 
+ li{
+ 	font-family: system-ui;
+ 	font-size: 200%
+ }
+nav{
+ margin: 0 auto;
+ text-align: center;
+ margin-top: 70px;
+  }
+  nav ul li{
+   display: inline-block; 
+}
+  nav ul li a { display: block;padding: 30x 30x;  text-decoration: none;}
+  nav ul {list-style: none;}
+ .pugb{ float: right; width: 400px }
+ .pijl { float: right; width: 500px }
+ .werk {
+   float: right;
+}
+ .haven{ 
+ 	width: 1910px
+}
+.studie{
+
+}
