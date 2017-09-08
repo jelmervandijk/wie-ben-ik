@@ -11,8 +11,10 @@ h1{
 	font-size: 300%;
  	border: 8px solid;
 }
+h2{ font-family: system-ui;
+font-size: 200%; }
 p{ 
-	color: black;
+	color: black;  
 	font-family: system-ui;
  	font-size: 150%
 }
